@@ -1,0 +1,3 @@
+id: AKIAQYLPMN5HNM4OZ56B
+key: Rm29CHLQCeaT6V/Rsw3UFWW1/UWQ0lhsWBa3bdca
+mongodb+srv://svc-admin:kLeioeBne5lsopPf@mergington-high.avocado.mongodb.net
